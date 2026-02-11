@@ -1,0 +1,10 @@
+no/ntnu/idatg2003/textcommands/TextCommand.class
+no/ntnu/idatg2003/textcommands/replace/ReplaceFirstTextCommand.class
+no/ntnu/idatg2003/textcommands/script/Script.class
+no/ntnu/idatg2003/textcommands/wrap/WrapTextCommand.class
+no/ntnu/idatg2003/textcommands/wrap/WrapSelectionTextCommand.class
+no/ntnu/idatg2003/textcommands/capitalize/CapitalizeWordsTextCommand.class
+no/ntnu/idatg2003/textcommands/replace/ReplaceTextCommand.class
+no/ntnu/idatg2003/textcommands/capitalize/CapitalizeSelectionTextCommand.class
+no/ntnu/idatg2003/textcommands/wrap/WrapLinesTextCommand.class
+no/ntnu/idatg2003/textcommands/capitalize/CapitalizeTextCommand.class

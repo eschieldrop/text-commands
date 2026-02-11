@@ -1,0 +1,10 @@
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/TextCommand.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/capitalize/CapitalizeSelectionTextCommand.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/capitalize/CapitalizeTextCommand.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/capitalize/CapitalizeWordsTextCommand.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/replace/ReplaceFirstTextCommand.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/replace/ReplaceTextCommand.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/script/Script.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/wrap/WrapLinesTextCommand.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/wrap/WrapSelectionTextCommand.java
+/Users/eschieldrop/Desktop/NTNU/2026/IDATG2003 Programmering 2/text-commands/src/main/java/no/ntnu/idatg2003/textcommands/wrap/WrapTextCommand.java
