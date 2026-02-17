@@ -27,7 +27,7 @@ import java.util.List;
  *   java -cp target/classes no.ntnu.idatg2003.textcommands.cli.Main script "replace:world:NTNU|wrap:[ : ]|capwords" "hello world"
  * </pre>
  *
- * <p>Note: Oppgave 7 is optional, so this is only meant as a demo runner.</p>
+ * <p>Note: Task 7 is optional, so this is only meant as a demo runner.</p>
  */
 public class Main {
 
